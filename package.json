@@ -1,0 +1,27 @@
+{
+  "name": "react-survey",
+  "version": "1.0.0",
+  "description": "react",
+  "main": "index.js",
+  "engines": {
+    "node": "9.5.0",
+    "npm": "5.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmislm/react-survey.git"
+  },
+  "author": "lmislm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lmislm/react-survey/issues"
+  },
+  "homepage": "https://github.com/lmislm/react-survey#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
