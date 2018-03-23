@@ -6,6 +6,10 @@
 
 react,basic
 
+#### 启动
+
+> npm run dev
+
 #### 说明
 
 部署在 heroku.com 上，地址：http://lmislm-react-a.herokuapp.com/
